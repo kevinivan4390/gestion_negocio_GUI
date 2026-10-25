@@ -1,0 +1,6 @@
+babel==2.17.0
+chardet==5.2.0
+mysql-connector-python==9.3.0
+pillow==11.2.1
+reportlab==4.4.0
+tkcalendar==1.6.1
